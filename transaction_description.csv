@@ -1,0 +1,24 @@
+Field name,Description,Type
+Transaction Number,,String
+Transaction Date,Date and time of the transaction,Date & Time
+Property ID,,Integer
+Transaction Type,"Type of transaction (Sales, Gifts, Mortgage)",String
+Transaction sub type,"Sub type of the transaction (Sell - Pre registration, Delayed Sell, Mortagage Registration etc.) ",String
+Registration type,"Type of registration (Ready, Off-Plan)",String
+Is Free Hold?,,String
+Usage,"Usage (Commercial, Residential)",String
+Area ,Dubaï area,String
+Property Type ,"Type of property (Unit, Land, Building)",String
+Property Sub Type,"Sub type of property (Fat, Villa, Shop, Office, Hotel Apartment etc.)",String
+Amount ,transaction amount in AED,Float
+Transaction Size (sq.m) ,Area of the transaction in square meters,Float
+Property Size (sq.m),Area of the property in square meters,Float
+Room(s),"Property layout (Studio, Single Room, 1 B/R, 5 B/R etc.)",String
+Parking,,Integer
+Nearest Metro,Name of the nearest metro,String
+Nearest Mall,Name of the nearest mall,String
+Nearest Landmark ,Name of the nearest Landmark,String
+No. of Buyer ,Number of buyers,Integer
+No. of Seller ,Number of sellers,Integer
+Master Project ,,String
+Project ,Name of the project,String

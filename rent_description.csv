@@ -1,0 +1,23 @@
+Field name,Description,Type
+Ejari Contract Number,,Integer
+Registration Date,Date of registration,Date & Time
+Start Date ,Start date of the rental,Date & Time
+End Date ,End date of the rental,Date & Time
+Property ID,,Integer
+Version ,,String
+Area1 ,Dubaï area,String
+Contract Amount ,contract amount in AED,Float
+Annual Amount ,annual amount in AED,Float
+Is Free Hold? ,,String
+Property Size (sq.m) ,Area of the property in square meters,Float
+Property Type1 ,"Type of property (Building, Land, Unit, Villa, Virtual Unit)",String
+Property Sub Type1 ,"Sub type of property (Workshop, Warehouse, Store, Studio, Farm, church, Land Parking etc.)",String
+Number of Rooms ,,Integer
+Usage ,"Usage (Commercial, Industrial, Residential etc.)",String
+Nearest Metro ,Name of the nearest metro,String
+Nearest Mall ,Name of the nearest mall,String
+Nearest Landmark ,Name of the nearest Landmark,String
+Parking,,Integer
+No of Units,,Integer
+Master Project,,String
+Project,Name of the project,String
